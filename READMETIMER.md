@@ -6,7 +6,7 @@ It follows the latest USANKF rules
 <br><br>
 <strong>TOURNAMENT SET UP</strong><br>
 Two competitors will compete at a time, one as red (aka) and one as blue (ao).<br>
-The timer is to run for 2 minutes, unless the competitors are 11 years of age or under<br>
+The timer is to run for 2 minutes, unless the competitors are 11 years of age or under (in which case it will run for 1:30)<br>
 The timer will buzz when there is 15 seconds left
 <br><br>
 <strong>SCORING SYSTEM</strong><br>
