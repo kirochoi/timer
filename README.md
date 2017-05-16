@@ -1,2 +1,4 @@
-# my-project
-experimenting with JavaScript
+#timer
+
+What are we doingw tfff
+
