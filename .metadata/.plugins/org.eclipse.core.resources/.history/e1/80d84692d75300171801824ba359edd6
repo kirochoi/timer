@@ -1,0 +1,11 @@
+import java.awt.*;
+import javax.swing.*;
+
+public class Timer extends JApplet{
+
+	public void paint( Graphics g)
+	{
+		super.paint(g);
+		g.drawString("CHECK IT OOOOUUUUTTTT", 25, 25);
+	}
+}

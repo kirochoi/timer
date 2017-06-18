@@ -6,7 +6,7 @@ public class Timer extends Applet{
 	public void paint( Graphics g)
 	{
 		super.paint(g);
-		g.drawString("CHECK IT OOOOUUUUTTTT", 0, 25);
+		g.drawString("CHECK IT OOOOUUUUTTTT", 25, 25);
 	}
 	
 }
